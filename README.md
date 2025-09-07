@@ -1,7 +1,7 @@
 # ☁️ Cloud Development Learning Journey
 
 Welcome to my personal cloud development journey! 🚀  
-This repository serves as a living portfolio of my exploration into cloud technologies — primarily focusing on **Microsoft Azure**, integrated with my background in **.NET** and **Angular** development.
+This repository serves as a living portfolio of my exploration into cloud technologies, primarily focusing on **Microsoft Azure**.
 
 ---
 
